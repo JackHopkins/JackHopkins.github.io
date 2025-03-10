@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jack Hopkins - Personal Site</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2b6cb0;
+            --secondary-color: #1a202c;
+            --background-color: #f7fafc;
+            --text-color: #4a5568;
+            --heading-color: #2d3748;
+            --light-gray: #e2e8f0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 60px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        nav {
+            background-color: var(--secondary-color);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav ul {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+
+        nav ul li a:hover {
+            color: var(--light-gray);
+        }
+
+        section {
+            padding: 50px 0;
+        }
+
+        section h2 {
+            color: var(--heading-color);
+            font-size: 2rem;
+            margin-bottom: 30px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--primary-color);
+        }
+
+        .education-item, .project-item, .paper-item, .award-item, .referee-item {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--light-gray);
+        }
+
+        .education-item h3, .project-item h3, .paper-item h3 {
+            color: var(--primary-color);
+            margin-bottom: 5px;
+        }
+
+        .education-meta, .project-meta, .paper-meta {
+            display: flex;
+            justify-content: space-between;
+            color: var(--secondary-color);
+            font-weight: 500;
+            margin-bottom: 10px;
+        }
+
+        .education-description, .project-description, .paper-description {
+            margin-top: 10px;
+        }
+
+        .referee-item h3 {
+            color: var(--heading-color);
+            margin-bottom: 5px;
+        }
+
+        .referee-item p {
+            margin-bottom: 5px;
+        }
+
+        .referee-item p i {
+            color: var(--primary-color);
+            margin-right: 10px;
+        }
+
+        footer {
+            background-color: var(--secondary-color);
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 30px;
+        }
+
+        .social-links {
+            margin: 20px 0;
+        }
+
+        .social-links a {
+            color: white;
+            margin: 0 10px;
+            font-size: 1.5rem;
+            transition: color 0.3s;
+        }
+
+        .social-links a:hover {
+            color: var(--primary-color);
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2.5rem;
+            }
+
+            nav ul {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            nav ul li {
+                margin: 5px 0;
+            }
+
+            .education-meta, .project-meta, .paper-meta {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+<header>
+    <div class="container">
+        <h1>Jack Hopkins</h1>
+        <p>Researcher & Developer</p>
+    </div>
+</header>
+
+<nav>
+    <div class="container">
+        <ul>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#open-source">Open Source</a></li>
+            <li><a href="#papers">Papers</a></li>
+            <li><a href="#awards">Awards</a></li>
+        </ul>
+    </div>
+</nav>
+
+<main class="container">
+    <section id="education">
+        <h2>Education</h2>
+
+        <div class="education-item">
+            <h3>MPhil Advanced Computer Science</h3>
+            <div class="education-meta">
+                <span><i class="fas fa-university"></i> Darwin College, University of Cambridge</span>
+                <span><i class="fas fa-calendar"></i> 2015 - 2016</span>
+            </div>
+            <div class="education-description">
+                <p>Distinction</p>
+            </div>
+        </div>
+
+        <div class="education-item">
+            <h3>BSc Computer Science</h3>
+            <div class="education-meta">
+                <span><i class="fas fa-university"></i> Royal Holloway, University of London</span>
+                <span><i class="fas fa-calendar"></i> 2011 - 2014</span>
+            </div>
+            <div class="education-description">
+                <p>1st Class</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="open-source">
+        <h2>Open-Source Projects</h2>
+
+        <div class="project-item">
+            <h3><a href="https://github.com/JackHopkins/factorio-learning-environment">Factorio Learning Environment</a></h3>
+            <div class="project-description">
+                <p>An open-ended agent environment for evaluating LLMs in unbounded scenarios in Factorio, a game centered on automation and exponential resource production.</p>
+            </div>
+        </div>
+
+        <div class="project-item">
+            <h3><a href="https://github.com/Tanuki/tanuki.py">Tanuki - Prompt engineering for developers</a></h3>
+            <div class="project-description">
+                <p>Easily build LLM-powered apps that get cheaper and faster over time. Python and Typescript implementations.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="papers">
+        <h2>1st Author Papers</h2>
+
+        <div class="paper-item">
+            <h3>Automatically Generating Rhythmic Verse with Neural Networks</h3>
+            <div class="paper-meta">
+                <span><i class="fas fa-book"></i> Association for Computational Linguistics (Volume 1: Long Papers)</span>
+                <span><i class="fas fa-calendar"></i> 2016</span>
+            </div>
+            <div class="paper-description">
+                <p>Jack Hopkins et al. Pages 168-178.</p>
+            </div>
+        </div>
+
+        <div class="paper-item">
+            <h3>Open Game Tournaments in STARLITE</h3>
+            <div class="paper-meta">
+                <span><i class="fas fa-book"></i> Autonomous Agents and Multiagent Systems (AAMAS '15)</span>
+                <span><i class="fas fa-calendar"></i> 2015</span>
+            </div>
+        </div>
+
+        <div class="paper-item">
+            <h3>PIRASA: strategic protocol selection for e-commerce agents</h3>
+            <div class="paper-meta">
+                <span><i class="fas fa-book"></i> EM '19: Electronic Markets, Vol. 29, No. 2</span>
+                <span><i class="fas fa-calendar"></i> 06.2019</span>
+            </div>
+            <div class="paper-description">
+                <p>Jack Hopkins et al. p. 239-252.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="awards">
+        <h2>Awards</h2>
+
+        <div class="award-item">
+            <p><strong>5th Place:</strong> Talisker Whisky Atlantic Challenge 2018-19</p>
+        </div>
+
+        <div class="award-item">
+            <p><strong>1st Place:</strong> ECM Cambridge Tech Challenge 2015</p>
+        </div>
+
+        <div class="award-item">
+            <p><strong>2nd Place:</strong> University Programming competition 2013</p>
+        </div>
+
+        <div class="award-item">
+            <p><strong>1st Place:</strong> University Programming competition 2012</p>
+        </div>
+
+        <div class="award-item">
+            <p><strong>1st Place:</strong> Real World Hackathon 2012</p>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="container">
+        <div class="social-links">
+            <a href="https://github.com/JackHopkins" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/jack-hopkins-2baab721b/" target="_blank"><i class="fab fa-linkedin"></i></a>
+
+        </div>
+        <p>&copy; 2025 Jack Hopkins</p>
+    </div>
+</footer>
+</body>
+</html>
