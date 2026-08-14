@@ -6,7 +6,18 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Curriculum Vitae</h3>
+    <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-5">
+      <h3 class="fw-bold mb-0">Curriculum Vitae</h3>
+      <a class="btn btn-outline-dark btn-sm" href="{{ '/assets/documents/Jack_Hopkins_CV.pdf' | relative_url }}" download>Download PDF</a>
+    </div>
+
+    <!-- Embedded PDF -->
+    <div class="mb-5">
+      <object data="{{ '/assets/documents/Jack_Hopkins_CV.pdf' | relative_url }}" type="application/pdf" width="100%" style="height: 90vh; min-height: 600px;">
+        <p>Your browser can't display embedded PDFs.
+          <a href="{{ '/assets/documents/Jack_Hopkins_CV.pdf' | relative_url }}">Download the CV instead</a>.</p>
+      </object>
+    </div>
 
     <!-- Work Experience -->
     <div class="row g-5 mb-5">
