@@ -1,39 +1,48 @@
 featured:
-- name: 'Self-Attribution Bias in Large Language Models. <strong>Jack Hopkins</strong>, Dipika Khullar. 2026. NeurIPS.'
+- name: 'Self-Attribution Bias: When AI Monitors Go Easy on Themselves. Dipika Khullar, <strong>Jack Hopkins</strong>, Rowan Wang, Fabien Roger. 2026. arXiv preprint.'
   year: 2026
-  url: ''
-- name: 'Factorio Learning Environment. <strong>Jack Hopkins</strong>, Neel Kant, Harshit Sharma. 2025. NeurIPS.'
+  url: 'https://arxiv.org/abs/2603.04582'
+- name: 'Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets. <strong>Jack Hopkins</strong>, Dipika Khullar, Fabien Roger. 2026. arXiv preprint.'
+  year: 2026
+  url: 'https://arxiv.org/abs/2607.08173'
+- name: 'Factorio Learning Environment. <strong>Jack Hopkins</strong>, Mart Bakler, Akbir Khan. 2025. NeurIPS.'
   year: 2025
-  url: 'https://github.com/JackHopkins/PaperclipMaximiser'
-- name: 'Overthinking in Large Language Models. <strong>Jack Hopkins</strong>, Rowan Wang. 2026. Forthcoming.'
-  year: 2026
-  url: ''
+  url: 'https://arxiv.org/abs/2503.09617'
 - name: 'Automatically Generating Rhythmic Verse with Neural Networks. <strong>Jack Hopkins</strong>, Douwe Kiela. 2017. Association for Computational Linguistics (Volume 1: Long Papers) Pages 168-178.'
   year: 2017
   url: 'https://aclanthology.org/P17-1016/'
 
 index:
-- name: 'Self-Attribution Bias in Large Language Models. <strong>Jack Hopkins</strong>, Dipika Khullar. 2026. NeurIPS.'
+- name: 'Self-Attribution Bias: When AI Monitors Go Easy on Themselves. Dipika Khullar, <strong>Jack Hopkins</strong>, Rowan Wang, Fabien Roger. 2026. arXiv preprint.'
   year: 2026
-  url: ''
-- name: 'Overthinking in Large Language Models. <strong>Jack Hopkins</strong>, Rowan Wang. 2026. Forthcoming.'
+  url: 'https://arxiv.org/abs/2603.04582'
+- name: 'Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets. <strong>Jack Hopkins</strong>, Dipika Khullar, Fabien Roger. 2026. arXiv preprint.'
   year: 2026
-  url: ''
+  url: 'https://arxiv.org/abs/2607.08173'
 - name: 'Lie Detection Generalisation in LLMs. <strong>Jack Hopkins</strong>, Daniel Kwak, Akbir Khan. 2026. Forthcoming.'
   year: 2026
   url: ''
-- name: 'Factorio Learning Environment. <strong>Jack Hopkins</strong>, Neel Kant, Harshit Sharma. 2025. NeurIPS.'
+- name: 'Language Models Rate Their Own Actions As Safer. Dipika Khullar, <strong>Jack Hopkins</strong>, Rowan Wang, Fabien Roger. 2025. First Workshop on Multi-Turn Interactions in Large Language Models, NeurIPS.'
   year: 2025
-  url: 'https://github.com/JackHopkins/PaperclipMaximiser'
-- name: 'PIRASA: strategic protocol selection for e-commerce agents. <strong>Jack Hopkins</strong>, Peter McBurney, Elizabeth Sklar. 2019. Electronic Markets, Vol. 29, No. 2, p. 239-252.'
+  url: 'https://openreview.net/forum?id=NUSYIHi4eg'
+- name: 'Factorio Learning Environment. <strong>Jack Hopkins</strong>, Mart Bakler, Akbir Khan. 2025. NeurIPS.'
+  year: 2025
+  url: 'https://arxiv.org/abs/2503.09617'
+- name: 'Multi-dimensional Affect in Poetry (POCA) Dataset: Acquisition, Annotation and Baseline Results. A. Khan, <strong>Jack Hopkins</strong>, Hatice Gunes. 2021. 9th International Conference on Affective Computing and Intelligent Interaction (ACII).'
+  year: 2021
+  url: 'https://ieeexplore.ieee.org/document/9597451/'
+- name: 'Detecting Anomalous Application Messages in Telecommunication Networks. Dishant Shah, <strong>Jack Hopkins</strong>, Akbir Khan, Javid Lakha. 2021. US Patent App. 16/647,166.'
+  year: 2021
+  url: 'https://patents.google.com/patent/US20210185066A1/en'
+- name: 'PIRASA: strategic protocol selection for e-commerce agents. <strong>Jack Hopkins</strong>, Özgür Kafalı, Bedour Alrayes, Kostas Stathis. 2019. Electronic Markets, Vol. 29, No. 2, p. 239-252.'
   year: 2019
-  url: ''
+  url: 'https://link.springer.com/article/10.1007/s12525-018-0307-4'
 - name: 'Automatically Generating Rhythmic Verse with Neural Networks. <strong>Jack Hopkins</strong>, Douwe Kiela. 2017. Association for Computational Linguistics (Volume 1: Long Papers) Pages 168-178.'
   year: 2017
   url: 'https://aclanthology.org/P17-1016/'
-- name: 'Open Game Tournaments in STARLITE. <strong>Jack Hopkins</strong>, Peter McBurney. 2015. Autonomous Agents and Multiagent Systems (AAMAS ''15).'
+- name: 'Open Game Tournaments in STARLITE. <strong>Jack Hopkins</strong>, Özgür Kafalı, Kostas Stathis. 2015. Autonomous Agents and Multiagent Systems (AAMAS ''15).'
   year: 2015
-  url: ''
+  url: 'https://kar.kent.ac.uk/65892/'
 - name: 'A Corpus of Annotated Revisions for Studying Argumentative Writing. <strong>Jack Hopkins</strong>, Maite Taboada. 2014. Association for Computational Linguistics.'
   year: 2014
   url: ''
