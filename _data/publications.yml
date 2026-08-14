@@ -1,0 +1,39 @@
+featured:
+- name: 'Self-Attribution Bias in Large Language Models. <strong>Jack Hopkins</strong>, Dipika Khullar. 2026. NeurIPS.'
+  year: 2026
+  url: ''
+- name: 'Factorio Learning Environment. <strong>Jack Hopkins</strong>, Neel Kant, Harshit Sharma. 2025. NeurIPS.'
+  year: 2025
+  url: 'https://github.com/JackHopkins/PaperclipMaximiser'
+- name: 'Overthinking in Large Language Models. <strong>Jack Hopkins</strong>, Rowan Wang. 2026. Forthcoming.'
+  year: 2026
+  url: ''
+- name: 'Automatically Generating Rhythmic Verse with Neural Networks. <strong>Jack Hopkins</strong>, Douwe Kiela. 2017. Association for Computational Linguistics (Volume 1: Long Papers) Pages 168-178.'
+  year: 2017
+  url: 'https://aclanthology.org/P17-1016/'
+
+index:
+- name: 'Self-Attribution Bias in Large Language Models. <strong>Jack Hopkins</strong>, Dipika Khullar. 2026. NeurIPS.'
+  year: 2026
+  url: ''
+- name: 'Overthinking in Large Language Models. <strong>Jack Hopkins</strong>, Rowan Wang. 2026. Forthcoming.'
+  year: 2026
+  url: ''
+- name: 'Lie Detection Generalisation in LLMs. <strong>Jack Hopkins</strong>, Daniel Kwak, Akbir Khan. 2026. Forthcoming.'
+  year: 2026
+  url: ''
+- name: 'Factorio Learning Environment. <strong>Jack Hopkins</strong>, Neel Kant, Harshit Sharma. 2025. NeurIPS.'
+  year: 2025
+  url: 'https://github.com/JackHopkins/PaperclipMaximiser'
+- name: 'PIRASA: strategic protocol selection for e-commerce agents. <strong>Jack Hopkins</strong>, Peter McBurney, Elizabeth Sklar. 2019. Electronic Markets, Vol. 29, No. 2, p. 239-252.'
+  year: 2019
+  url: ''
+- name: 'Automatically Generating Rhythmic Verse with Neural Networks. <strong>Jack Hopkins</strong>, Douwe Kiela. 2017. Association for Computational Linguistics (Volume 1: Long Papers) Pages 168-178.'
+  year: 2017
+  url: 'https://aclanthology.org/P17-1016/'
+- name: 'Open Game Tournaments in STARLITE. <strong>Jack Hopkins</strong>, Peter McBurney. 2015. Autonomous Agents and Multiagent Systems (AAMAS ''15).'
+  year: 2015
+  url: ''
+- name: 'A Corpus of Annotated Revisions for Studying Argumentative Writing. <strong>Jack Hopkins</strong>, Maite Taboada. 2014. Association for Computational Linguistics.'
+  year: 2014
+  url: ''

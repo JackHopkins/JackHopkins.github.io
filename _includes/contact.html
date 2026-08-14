@@ -1,0 +1,14 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
+    {% for contact in site.data.settings.contacts %}
+    <div class="row g-5 mb-5">
+      <div class="col-md-6">
+        <h4>{{ contact.name }}</h4>
+        <p>{{ contact.title }}</p>
+        <p>Email: <img src="{{ site.github.url }}/assets/img/email.png" alt="Email address" style="height: 15px; vertical-align: baseline; margin-top: 3px;"></p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

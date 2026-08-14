@@ -1,0 +1,7 @@
+- title: 'Factorio Learning Environment'
+  description: 'An open-ended agent environment for evaluating LLMs in unbounded scenarios in Factorio, a game centered on automation and exponential resource production. 935+ GitHub stars.'
+  link: 'https://github.com/JackHopkins/PaperclipMaximiser'
+
+- title: 'Tanuki.py'
+  description: 'Easily build LLM-powered apps that get cheaper and faster over time. Python and Typescript implementations. 695+ GitHub stars.'
+  link: 'https://github.com/Tanuki/tanuki.py'

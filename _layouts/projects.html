@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h3 class="fw-bold border-bottom pb-3 mb-5">Projects</h3>
+{% for project in site.data.projects %}
+<div class="row g-5 mb-4">
+  <div>
+    <h5><a href="{{ site.github.url }}/projects/{{ project.slug }}">{{ project.title }}</a></h5>
+    <p class="text-muted mb-1">{{ project.tagline }}</p>
+    <p>{{ project.description }}</p>
+    <p>
+      {% for highlight in project.highlights %}
+      <span class="badge bg-secondary">{{ highlight }}</span>
+      {% endfor %}
+    </p>
+  </div>
+</div>
+{% endfor %}

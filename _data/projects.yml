@@ -1,0 +1,56 @@
+- slug: factorio-learning-environment
+  title: "Factorio Learning Environment"
+  tagline: "Open-ended LLM agent benchmark built in Factorio"
+  description: "An open-source environment for evaluating LLM agents on complex, unbounded automation tasks with exponential complexity scaling."
+  highlights:
+    - "NeurIPS 2025"
+    - "935+ GitHub stars"
+    - "Open-source"
+  links:
+    - {label: "Website", url: "https://jackhopkins.github.io/factorio-learning-environment/"}
+    - {label: "GitHub", url: "https://github.com/JackHopkins/PaperclipMaximiser"}
+    - {label: "Paper", url: "https://arxiv.org/abs/2502.01157"}
+  image: "/assets/images/projects/factorio-placeholder.png"
+
+- slug: atlantic-row
+  title: "Atlantic Row"
+  tagline: "40-day unsupported Atlantic crossing with a team of 4"
+  description: "Rowed 3,000 miles across the Atlantic Ocean in the 2018-19 Talisker Whisky Atlantic Challenge, finishing 5th and raising £25k for Multiple Sclerosis charities."
+  highlights:
+    - "40 days at sea"
+    - "5th place finish"
+    - "£25k raised for MS charities"
+  links: []
+  image: "/assets/images/projects/atlantic-placeholder.png"
+
+- slug: lie-detection
+  title: "Lie Detection in LLMs"
+  tagline: "Do fine-tuned lie detectors generalise across domains?"
+  description: "Research investigating whether LLM-based lie detectors trained on one domain can detect deception in others, with implications for AI safety."
+  highlights:
+    - "MATS/Anthropic fellowship"
+    - "Forthcoming 2026"
+  links: []
+  image: "/assets/images/projects/lie-detection-placeholder.png"
+
+- slug: overthinking
+  title: "Overthinking"
+  tagline: "Amplifying reasoning weights to extract learned secrets"
+  description: "Using reasoning task vector arithmetic to amplify models' propensity to think out loud, surfacing hidden information up to 10× more frequently for pre-deployment safety auditing."
+  highlights:
+    - "ICML 2026 submission"
+    - "Up to 10× improvement"
+    - "2B-32B scale"
+  links: []
+  image: "/assets/images/projects/overthinking-placeholder.png"
+
+- slug: akkadian-nmt
+  title: "Akkadian to English NMT"
+  tagline: "Neural machine translation of ancient cuneiform"
+  description: "Applying test-time compute to ancient language translation. Distilled reasoning chains from Claude Opus nearly double BLEU (63 vs 37) on Akkadian-to-English, filtering 140k ORACC lines down to 26k high-quality training pairs."
+  highlights:
+    - "63 BLEU (val)"
+    - "140k → 26k filtered pairs"
+  links:
+    - {label: "HuggingFace", url: "#"}
+  image: "/assets/images/projects/akkadian-placeholder.png"

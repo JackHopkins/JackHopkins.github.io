@@ -1,0 +1,50 @@
+menu:
+- {name: 'projects', url: '/projects'}
+- {name: 'cv', url: '/cv'}
+- {name: 'publications', url: '/publications'}
+- {name: 'people', url: '/people'}
+- {name: 'contact', url: '/contact'}
+
+social:
+- {icon: 'github', link: 'https://github.com/JackHopkins', prefix: 'fab'}
+- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=o2t3JsYAAAAJ', prefix: 'fas'}
+- {icon: 'twitter', link: 'https://x.com/JackHopkins', prefix: 'fab'}
+
+contacts:
+- {name: 'Jack Hopkins', title: 'Independent AI Safety Researcher', email: 'jack.hopkins@me.com'}
+
+people:
+- name: 'Akbir Khan'
+  role: 'Research Scientist, Anthropic'
+  url: 'akbir-khan'
+  description: 'Collaborator on LLM evaluation and AI safety research. MATS mentor.'
+
+- name: 'Neel Kant'
+  role: 'Research Scientist'
+  url: 'neel-kant'
+  description: 'Co-author on the Factorio Learning Environment and open-ended agent evaluation.'
+
+- name: 'Harshit Sharma'
+  role: 'Research Scientist'
+  url: 'harshit-sharma'
+  description: 'Co-author on the Factorio Learning Environment.'
+
+- name: 'Fabien Roger'
+  role: 'Research Scientist, Anthropic'
+  url: 'fabien-roger'
+  description: 'Collaborator on AI safety research at Anthropic.'
+
+- name: 'Rowan Wang'
+  role: 'AI Safety Researcher'
+  url: 'rowan-wang'
+  description: 'Co-author on overthinking in reasoning models.'
+
+- name: 'Dipika Khullar'
+  role: 'AI Safety Researcher'
+  url: 'dipika-khullar'
+  description: 'Co-author on self-attribution bias in large language models.'
+
+- name: 'Daniel Kwak'
+  role: 'AI Safety Researcher'
+  url: 'daniel-kwak'
+  description: 'Co-author on lie detection generalisation in LLMs.'

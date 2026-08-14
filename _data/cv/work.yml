@@ -1,0 +1,35 @@
+- title: 'Independent AI Safety Researcher'
+  company: ''
+  year: '2024 -- Present'
+  location: 'London'
+  description: 'Researching LLM evaluation, self-attribution bias, and lie detection generalisation.'
+
+- title: 'AI Safety Fellow'
+  company: 'Anthropic / MATS 8.0-8.1'
+  year: '2024'
+  location: 'Berkeley / London'
+  description: 'Determined that fine-tuned LLM lie detectors don''t generalise. Identified a novel technique to get LLMs to leak secrets.'
+
+- title: 'Co-founder'
+  company: 'Paperplane (YC W23)'
+  year: '2021 -- 2024'
+  location: 'New York / London'
+  items:
+    - 'Led technical development of multi-modal conversational intelligence platform'
+    - 'Raised venture capital and attended Y Combinator'
+    - 'Developed novel approaches to customer interaction analysis'
+
+- title: 'Co-founder & CTO'
+  company: 'Spherical Defence Labs'
+  year: '2017 -- 2020'
+  location: 'London'
+  items:
+    - 'Developed proprietary VAE variant achieving state-of-the-art accuracy on API security benchmarks'
+    - 'Built and led engineering team serving enterprise customers including Facebook, LSEG and Twilio'
+    - 'Secured venture funding and established technical innovation partnership with AWS'
+
+- title: 'Research Associate'
+  company: 'Computer Science Department, University of London'
+  year: '2014 -- 2015'
+  location: 'London'
+  description: 'Developed STAR, a meta-platform for agent research.'

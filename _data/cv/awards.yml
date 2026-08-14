@@ -1,0 +1,39 @@
+- place: 'Scholar'
+  title: 'MATS 8.0 / 8.1'
+  year: '2024'
+
+- place: 'Fellow'
+  title: 'Anthropic AI Safety'
+  year: '2024'
+
+- place: 'Grant'
+  title: 'AI Safety Student Funding'
+  year: '2024'
+
+- place: 'W23'
+  title: 'Y Combinator'
+  year: '2023'
+
+- place: '1st ($50k)'
+  title: 'OpenAI 20b Red-Teaming Kaggle Competition'
+  year: '2025'
+
+- place: '5th'
+  title: 'Talisker Whisky Atlantic Challenge (Atlantic Rowing Race)'
+  year: '2018-19'
+
+- place: '1st'
+  title: 'ECM Cambridge Tech Challenge'
+  year: '2015'
+
+- place: '2nd'
+  title: 'University Programming Competition'
+  year: '2013'
+
+- place: '1st'
+  title: 'University Programming Competition'
+  year: '2012'
+
+- place: '1st'
+  title: 'Real World Hackathon'
+  year: '2012'
