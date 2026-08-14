@@ -8,8 +8,8 @@
     - "Open-source"
   links:
     - {label: "Website", url: "https://jackhopkins.github.io/factorio-learning-environment/"}
-    - {label: "GitHub", url: "https://github.com/JackHopkins/PaperclipMaximiser"}
-    - {label: "Paper", url: "https://arxiv.org/abs/2502.01157"}
+    - {label: "GitHub", url: "https://github.com/JackHopkins/factorio-learning-environment"}
+    - {label: "Paper", url: "https://arxiv.org/abs/2503.09617"}
   image: "/assets/images/projects/factorio-placeholder.png"
 
 - slug: atlantic-row
@@ -20,7 +20,8 @@
     - "40 days at sea"
     - "5th place finish"
     - "£25k raised for MS charities"
-  links: []
+  links:
+    - {label: "Press", url: "https://www.adventure52.com/news/the-teams-taking-on-the-talisker-whisky-atlantic-challenge/"}
   image: "/assets/images/projects/atlantic-placeholder.png"
 
 - slug: lie-detection
@@ -30,7 +31,8 @@
   highlights:
     - "MATS/Anthropic fellowship"
     - "Forthcoming 2026"
-  links: []
+  links:
+    - {label: "HuggingFace", url: "https://huggingface.co/Noddybear"}
   image: "/assets/images/projects/lie-detection-placeholder.png"
 
 - slug: overthinking
@@ -41,7 +43,8 @@
     - "ICML 2026 submission"
     - "Up to 10× improvement"
     - "2B-32B scale"
-  links: []
+  links:
+    - {label: "Paper", url: "https://arxiv.org/abs/2607.08173"}
   image: "/assets/images/projects/overthinking-placeholder.png"
 
 - slug: akkadian-nmt
@@ -51,6 +54,5 @@
   highlights:
     - "63 BLEU (val)"
     - "140k → 26k filtered pairs"
-  links:
-    - {label: "HuggingFace", url: "#"}
+  links: []
   image: "/assets/images/projects/akkadian-placeholder.png"

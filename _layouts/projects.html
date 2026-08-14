@@ -16,6 +16,13 @@ layout: default
       <span class="badge bg-secondary">{{ highlight }}</span>
       {% endfor %}
     </p>
+    {% if project.links and project.links.size > 0 %}
+    <p>
+      {% for link in project.links %}
+      <a href="{{ link.url }}" class="me-3">{{ link.label }}</a>
+      {% endfor %}
+    </p>
+    {% endif %}
   </div>
 </div>
 {% endfor %}

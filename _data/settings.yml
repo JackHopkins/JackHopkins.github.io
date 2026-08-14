@@ -7,7 +7,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/JackHopkins', prefix: 'fab'}
-- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=o2t3JsYAAAAJ', prefix: 'fas'}
+- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=_k4FEiAAAAAJ', prefix: 'fas'}
 - {icon: 'twitter', link: 'https://x.com/JackHopkins', prefix: 'fab'}
 
 contacts:
