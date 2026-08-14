@@ -1,11 +1,11 @@
-- title: 'Self-Attribution Bias in Large Language Models'
-  authors: '<strong>Jack Hopkins</strong>, Dipika Khullar'
-  venue: 'NeurIPS'
+- title: 'Self-Attribution Bias: When AI Monitors Go Easy on Themselves'
+  authors: 'Dipika Khullar, <strong>Jack Hopkins</strong>, Rowan Wang, Fabien Roger'
+  venue: 'arXiv preprint arXiv:2603.04582'
   year: '2026'
 
-- title: 'Overthinking in Large Language Models'
-  authors: '<strong>Jack Hopkins</strong>, Rowan Wang'
-  venue: 'Forthcoming'
+- title: 'Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets'
+  authors: '<strong>Jack Hopkins</strong>, Dipika Khullar, Fabien Roger'
+  venue: 'arXiv preprint arXiv:2607.08173'
   year: '2026'
 
 - title: 'Lie Detection Generalisation in LLMs'
@@ -13,13 +13,28 @@
   venue: 'Forthcoming'
   year: '2026'
 
+- title: 'Language Models Rate Their Own Actions As Safer'
+  authors: 'Dipika Khullar, <strong>Jack Hopkins</strong>, Rowan Wang, Fabien Roger'
+  venue: 'First Workshop on Multi-Turn Interactions in Large Language Models, NeurIPS'
+  year: '2025'
+
 - title: 'Factorio Learning Environment'
-  authors: '<strong>Jack Hopkins</strong>, Neel Kant, Harshit Sharma'
+  authors: '<strong>Jack Hopkins</strong>, Mart Bakler, Akbir Khan'
   venue: 'NeurIPS'
   year: '2025'
 
+- title: 'Multi-dimensional Affect in Poetry (POCA) Dataset: Acquisition, Annotation and Baseline Results'
+  authors: 'Akbir Khan, <strong>Jack Hopkins</strong>, Hatice Gunes'
+  venue: '9th International Conference on Affective Computing and Intelligent Interaction (ACII)'
+  year: '2021'
+
+- title: 'Detecting Anomalous Application Messages in Telecommunication Networks'
+  authors: 'Dishant Shah, <strong>Jack Hopkins</strong>, Akbir Khan, Javid Lakha'
+  venue: 'US Patent App. 16/647,166'
+  year: '2021'
+
 - title: 'PIRASA: strategic protocol selection for e-commerce agents'
-  authors: '<strong>Jack Hopkins</strong>, Peter McBurney, Elizabeth Sklar'
+  authors: '<strong>Jack Hopkins</strong>, Özgür Kafalı, Bedour Alrayes, Kostas Stathis'
   venue: 'Electronic Markets, Vol. 29, No. 2, p. 239-252'
   year: '2019'
 
@@ -29,11 +44,6 @@
   year: '2017'
 
 - title: 'Open Game Tournaments in STARLITE'
-  authors: '<strong>Jack Hopkins</strong>, Peter McBurney'
+  authors: '<strong>Jack Hopkins</strong>, Özgür Kafalı, Kostas Stathis'
   venue: 'Autonomous Agents and Multiagent Systems (AAMAS ''15)'
   year: '2015'
-
-- title: 'A Corpus of Annotated Revisions for Studying Argumentative Writing'
-  authors: '<strong>Jack Hopkins</strong>, Maite Taboada'
-  venue: 'Association for Computational Linguistics'
-  year: '2014'
