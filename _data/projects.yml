@@ -54,5 +54,6 @@
   highlights:
     - "63 BLEU (val)"
     - "140k → 26k filtered pairs"
-  links: []
+  links:
+    - {label: "HuggingFace", url: "https://huggingface.co/Noddybear/akkadian-qwen3-4b"}
   image: "/assets/images/projects/akkadian-placeholder.png"
