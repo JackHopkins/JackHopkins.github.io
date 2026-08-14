@@ -19,7 +19,7 @@ index:
 - name: 'Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets. <strong>Jack Hopkins</strong>, Dipika Khullar, Fabien Roger. 2026. arXiv preprint.'
   year: 2026
   url: 'https://arxiv.org/abs/2607.08173'
-- name: 'Lie Detection Generalisation in LLMs. <strong>Jack Hopkins</strong>, Daniel Kwak, Akbir Khan. 2026. Forthcoming.'
+- name: 'Lie Detection Generalisation in LLMs. <strong>Jack Hopkins</strong>, Dipika Khullar, Rowan Wang, Fabien Roger. 2026. Forthcoming.'
   year: 2026
   url: ''
 - name: 'Language Models Rate Their Own Actions As Safer. Dipika Khullar, <strong>Jack Hopkins</strong>, Rowan Wang, Fabien Roger. 2025. First Workshop on Multi-Turn Interactions in Large Language Models, NeurIPS.'
