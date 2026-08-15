@@ -1,4 +1,5 @@
 menu:
+- {name: 'about', url: '/about'}
 - {name: 'projects', url: '/projects'}
 - {name: 'cv', url: '/assets/documents/Jack_Hopkins_CV.pdf'}
 - {name: 'publications', url: '/publications'}
