@@ -7,7 +7,7 @@ layout: default
 <h3 class="fw-bold border-bottom pb-3 mb-5">Projects</h3>
 {% for project in site.data.projects %}
 <div class="row g-5 mb-4">
-  <div>
+  <div class="{% if project.image %}col-md-8{% endif %}">
     <h5><a href="{{ site.github.url }}/projects/{{ project.slug }}">{{ project.title }}</a></h5>
     <p class="text-muted mb-1">{{ project.tagline }}</p>
     <p>{{ project.description }}</p>
@@ -24,5 +24,10 @@ layout: default
     </p>
     {% endif %}
   </div>
+  {% if project.image %}
+  <div class="col-md-4">
+    <img src="{{ site.github.url }}{{ project.image }}" alt="{{ project.title }}" width="100%" class="rounded">
+  </div>
+  {% endif %}
 </div>
 {% endfor %}

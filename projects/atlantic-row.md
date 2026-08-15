@@ -24,8 +24,7 @@ Conditions ranged from flat calms to 40-foot swells. We navigated squalls, equip
 - **40 days** at sea
 - **£25,000 raised** for Multiple Sclerosis charities
 
-<!-- Placeholder: photos from the crossing -->
-*[Crossing photos placeholder]*
+![The Atlantic Discovery crew at the finish in Antigua](/assets/img/rowing.png)
 
 ## Reflections
 
