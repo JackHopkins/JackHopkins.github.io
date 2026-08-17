@@ -29,9 +29,11 @@
   description: "Research investigating whether LLM-based lie detectors trained on one domain can detect deception in others, with implications for AI safety."
   highlights:
     - "MATS/Anthropic fellowship"
+    - "Kaggle red-teaming competition winner"
     - "Forthcoming 2026"
   links:
     - {label: "HuggingFace", url: "https://huggingface.co/Noddybear"}
+    - {label: "Kaggle writeup", url: "https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/writeups/gpt-oss-20b-is-a-liar"}
 
 - slug: overthinking
   title: "Overthinking"
