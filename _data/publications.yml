@@ -28,6 +28,9 @@ index:
 - name: 'Factorio Learning Environment. <strong>Jack Hopkins</strong>, Mart Bakler, Akbir Khan. 2025. NeurIPS.'
   year: 2025
   url: 'https://arxiv.org/abs/2503.09617'
+- name: 'GPT-OSS-20B is a Liar. Dipika Khullar, <strong>Jack Hopkins</strong>. 2025. Winner, Overall Track, OpenAI gpt-oss-20b Red-Teaming Challenge (Kaggle).'
+  year: 2025
+  url: 'https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/writeups/gpt-oss-20b-is-a-liar'
 - name: 'Multi-dimensional Affect in Poetry (POCA) Dataset: Acquisition, Annotation and Baseline Results. Akbir Khan, <strong>Jack Hopkins</strong>, Hatice Gunes. 2021. 9th International Conference on Affective Computing and Intelligent Interaction (ACII).'
   year: 2021
   url: 'https://ieeexplore.ieee.org/document/9597451/'
