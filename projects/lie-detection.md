@@ -15,4 +15,4 @@ This was a disappointing result. We had hoped that a lie detector would be suffi
 
 Related to this work, I won the OpenAI gpt-oss-20b red-teaming competition on Kaggle using an automated lie-detection approach: [GPT-OSS-20B is a liar](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/writeups/gpt-oss-20b-is-a-liar).
 
-Forthcoming as an Anthropic blog post in 2026, with Fabien Roger, Rowan Wang, Dipika Khullar, Daniel Kwak, and Akbir Khan. Trained detector models are on [HuggingFace](https://huggingface.co/Noddybear).
+Forthcoming as an Anthropic blog post in 2026, with Fabien Roger, Rowan Wang, and Dipika Khullar. Trained detector models are on [HuggingFace](https://huggingface.co/Noddybear).
