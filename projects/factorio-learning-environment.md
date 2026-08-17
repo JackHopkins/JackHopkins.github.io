@@ -13,7 +13,7 @@ Unlike traditional benchmarks with fixed task sets, FLE offers unbounded evaluat
 
 The most surprising behaviour we observed: agents that fall into failure states condition strongly on their own past failures and get worse, perhaps adopting the persona of a poor coding agent. And FLE does not yet directly measure instrumentally convergent properties, which was, amusingly, its founding motivation. That comes next.
 
-FLE was accepted at NeurIPS 2025, is open-source under the MIT licence, and has 935+ GitHub stars.
+FLE was accepted at NeurIPS 2025, is open-source under the MIT licence, and has 1.2k GitHub stars.
 
 [Website](https://jackhopkins.github.io/factorio-learning-environment/) · [GitHub](https://github.com/JackHopkins/factorio-learning-environment) · [Paper](https://arxiv.org/abs/2503.09617)
 

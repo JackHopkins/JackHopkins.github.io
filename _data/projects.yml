@@ -4,7 +4,7 @@
   description: "An open-source environment for evaluating LLM agents on complex, unbounded automation tasks with exponential complexity scaling."
   highlights:
     - "NeurIPS 2025"
-    - "935+ GitHub stars"
+    - "1.2k GitHub stars"
     - "Open-source"
   links:
     - {label: "Website", url: "https://jackhopkins.github.io/factorio-learning-environment/"}
