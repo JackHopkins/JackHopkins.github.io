@@ -11,6 +11,8 @@ The Factorio Learning Environment (FLE) is an open-source benchmark for evaluati
 
 Unlike traditional benchmarks with fixed task sets, FLE offers unbounded evaluation: there is no ceiling on what an agent can attempt to build, and complexity scales exponentially as agents chain production systems together. The deterministic game engine keeps evaluation reproducible, and it means successful programs are verified by construction. If it runs, it works.
 
+The most surprising behaviour we observed: agents that fall into failure states condition strongly on their own past failures and get worse, perhaps adopting the persona of a poor coding agent. And FLE does not yet directly measure instrumentally convergent properties, which was, amusingly, its founding motivation. That comes next.
+
 FLE was accepted at NeurIPS 2025, is open-source under the MIT licence, and has 935+ GitHub stars.
 
 [Website](https://jackhopkins.github.io/factorio-learning-environment/) · [GitHub](https://github.com/JackHopkins/factorio-learning-environment) · [Paper](https://arxiv.org/abs/2503.09617)
