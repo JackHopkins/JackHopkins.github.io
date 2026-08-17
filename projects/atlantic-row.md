@@ -15,4 +15,4 @@ We finished 5th in the fleet, 23 hours and 33 minutes behind the lead boat, and 
 
 <img src="/assets/img/rowing.png" alt="The Atlantic Discovery crew at the finish in Antigua" style="max-width: 480px; width: 100%;" class="rounded">
 
-The row was a lesson in sustained effort under uncertainty. There were no shortcuts, just consistent execution, day after day. The team dynamics, decision-making under fatigue, and tolerance for discomfort have shaped how I approach hard problems since.
+The team dynamics, decision-making under fatigue, and tolerance for discomfort have shaped how I approach hard problems since.

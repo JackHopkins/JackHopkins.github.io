@@ -28,6 +28,8 @@ The best model achieves **63.26 BLEU** and **74.44 chrF++** on the validation se
 
 The reasoning traces nearly double BLEU compared to the baseline without them (63.26 vs 36.53), confirming that the chains are load-bearing. The model doesn't just memorise translations, it learns to reason about the language.
 
+The project was built for a Kaggle competition, which I did not come close to winning. My best guess is that the model was overparameterised for the task.
+
 ## Example
 
 **Input (Neo-Assyrian transliteration):**
